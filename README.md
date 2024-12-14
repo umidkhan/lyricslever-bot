@@ -1,0 +1,1 @@
+# That bot can react to channel posts
